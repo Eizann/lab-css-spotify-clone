@@ -120,6 +120,7 @@ h3 {
 
 #spotifyIcon {
     height: 100px;
+    position: absolute;
 }
 
 #kanye {
